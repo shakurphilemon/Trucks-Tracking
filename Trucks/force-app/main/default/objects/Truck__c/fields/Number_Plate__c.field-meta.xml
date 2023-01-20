@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Number_Plate__c</fullName>
+    <description>This is the car number of the vehicle</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Car number should have both Alphabets and Numbers</inlineHelpText>
+    <label>Number Plate</label>
+    <length>10</length>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
